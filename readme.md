@@ -1,1 +1,1 @@
-[hibernate-demo.mp4](../../../../../../Documents/hibernate-demo.mp4)
+https://github.com/anouar-bm/tp4-hibernate/assets/hibernate-demo.mp4
