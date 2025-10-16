@@ -1,1 +1,1 @@
-https://github.com/anouar-bm/tp4-hibernate/assets/hibernate-demo.mp4
+[hibernate-demo.mp4](assets/hibernate-demo.mp4)
